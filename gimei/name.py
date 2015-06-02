@@ -1,17 +1,13 @@
 # coding: utf-8
-""" SudokuMaker Class """
-
-import math
-import random
+""" Name Class """
 
 
 class Name(object):
     """ name """
     def __init__(self, trgt_num):
-        self.__trgt_num = trgt_num
-        self.__decision_num = int(math.sqrt(trgt_num))
+        pass
 
     def make(self):
-        """ make sudoku function
+        """ name
         """
-        return sudoku_list
+        pass
