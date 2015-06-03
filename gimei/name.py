@@ -4,10 +4,9 @@
 
 class Name(object):
     """ name """
-    def __init__(self, trgt_num):
-        pass
+    def __init__(self):
+        print "*************"
 
     def make(self):
         """ name
         """
-        pass
