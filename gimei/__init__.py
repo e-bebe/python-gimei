@@ -8,5 +8,4 @@ def name():
     """ main
 
     """
-    hoge = Name()
-    print "hoge"
+    return Name()
